@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\HR-PC\source\repos\GameV1\src\main.cpp(45,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HR-PC\source\repos\GameV1\src\main.cpp(52,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameV1.vcxproj -> C:\Users\HR-PC\source\repos\GameV1\x64\Debug\GameV1.exe
