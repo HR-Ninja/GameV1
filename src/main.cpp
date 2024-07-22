@@ -25,7 +25,7 @@ int main()
 
     Game game = Game();
 
-    while (WindowShouldClose() == false)
+    while (!WindowShouldClose())
     {
         UpdateMusicStream(game.music);
         game.HandleInput();
